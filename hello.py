@@ -1,3 +1,5 @@
+
+
 n=int(input("n"))
 
 if __name__=="__main__":
